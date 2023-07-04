@@ -8,11 +8,6 @@
 # %%
 import cv2
 import numpy as np
-import matplotlib.pyplot as plt
-
-# Load the image
-# image = cv2.imread('image-8.jpg')
-
 
 # %% [markdown]
 # ### Masking red and blue
