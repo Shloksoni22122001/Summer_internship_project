@@ -15,7 +15,8 @@
 
 
 ## Demo
-![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnc0NzJjM3RpYjloM2M2b3dkdWIxY2pyYTN6ZWZlcTR3dXZzcGE3MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xGoD5xVymqYIx2tUTL/giphy-downsized-large.gif)
+![gif](https://github.com/Shloksoni22122001/Summer_internship_project/assets/117386665/bba08fd5-7473-43c5-8bfa-4f6c1e9505ca)
+
 ## Installation ⬇️
 ### Dependencies
 1. python == 3.10.9
