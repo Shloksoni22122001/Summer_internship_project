@@ -14,7 +14,7 @@
 
 
 
-## Demo
+## Demo 🖼️
 ![gif](https://github.com/Shloksoni22122001/Summer_internship_project/assets/117386665/bba08fd5-7473-43c5-8bfa-4f6c1e9505ca)
 
 ## Installation ⬇️
