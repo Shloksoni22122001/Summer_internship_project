@@ -83,5 +83,4 @@ conda env update --name <Environment_name> --file <Path/To>environment.yml --pru
 This project is licensed under the [MIT License](https://choosealicense.com/licenses/mit/)
 ## **Conclusion**✔️
 
-
-    In this project, we have explored image processing techniques using OpenCV to detect and track red and blue objects. The code utilizes color masking and contour analysis to identify the largest contours of the objects, draws rectangles around them, and connects them with a line. This can be useful in various applications such as object tracking, computer vision, and robotics. Feel free to explore the code and adapt it to suit your specific needs.
+In this project, we have explored image processing techniques using OpenCV to detect and track red and blue objects. The code utilizes color masking and contour analysis to identify the largest contours of the objects, draws rectangles around them, and connects them with a line. This can be useful in various applications such as object tracking, computer vision, and robotics. Feel free to explore the code and adapt it to suit your specific needs.
