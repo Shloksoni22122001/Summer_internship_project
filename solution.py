@@ -105,22 +105,13 @@ while(True):
     ret, frame = cap.read()
     #flipping cause it shows mirror image otherwise    
     frame = cv2.flip(frame,1)
-
-    # combined_window = np.hstack([gray_flip])
-    # min_contour_area=200
-    
-    contours=0
-    
     #Function area...
-    
     red,blue=PreProcessing(frame=frame)
     # contours=MaskOperations(combined_mask)
     gettingLine(frame=frame,red_contour=red,blue_contour=blue)
-    # print(contours)
-    
     if cv2.waitKey(1) & 0xFF == ord('q'):
         break
-    # break
+
 
 # When everything done, release the capture
 
